@@ -1,0 +1,9 @@
+# Hackintosh_Z7-KP7S1_OC_EFI
+CLEVO P65xHP OpenCore EFI
+
+我的设备是Z7-KP7S1
+
+更换硬件：
+- 无线网卡：DW1830
+- SSD：WD SN750
+- 屏幕：LP156UD1-SPB1
